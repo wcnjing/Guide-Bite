@@ -56,6 +56,9 @@
 
 https://www.figma.com/design/7zwhtyumsJmkx1cHfmXVIH/Order?node-id=0-1&t=hCfDOwVm8FHGxtZ1-1 
 
+## Slides Presentation
+https://www.canva.com/design/DAHBBRBmP0M/z2YD72f5so4xTSTMD3_TSA/edit?utm_content=DAHBBRBmP0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Permissions
 
 The app requires:
