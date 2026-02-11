@@ -52,6 +52,10 @@
 - **Results Display**: Shows classification, detections, and annotated images
 - **Error Handling**: User-friendly alerts for issues
 
+## Figma Prototype
+
+https://www.figma.com/design/7zwhtyumsJmkx1cHfmXVIH/Order?node-id=0-1&t=hCfDOwVm8FHGxtZ1-1 
+
 ## Permissions
 
 The app requires:
