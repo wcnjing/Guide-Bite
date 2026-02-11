@@ -1,14 +1,12 @@
-# Roboflow Vision App 📸
+# Guide-Bite 📸
 
-A React Native Expo app that uses your camera to capture images and analyzes them using Roboflow's workflow API.
 
 ## Features
 
-- 📷 Take photos with camera
-- 🖼️ Pick images from library
+- 📷 Allows users to take a photo of a menu and identify menu items
+- 🖼️ They can also choose to pick images from library
 - 🤖 Send to Roboflow for classification & object detection
 - 📊 Display annotated results
-- 🎨 Beautiful dark mode UI
 
 ## Setup
 
