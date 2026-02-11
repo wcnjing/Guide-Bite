@@ -68,14 +68,10 @@ These are requested automatically on first launch.
 
 **No results showing**: Check the console for API response errors
 
-## Based on Your Workflow
+## Roboflow workflow
 
-Your Roboflow workflow:
 1. Classification model: `beyond-binary-2026/2`
 2. Conditional check: If top class = "pasta"
 3. Object detection: RF-DETR Nano model
 4. Visualizations: Bounding boxes + labels
 
-The app handles all these steps and displays the results beautifully!
-
-Enjoy! 🎉
